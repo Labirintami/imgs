@@ -1,0 +1,608 @@
+Is he at home?
+Are they ill?
+Am I good?
+Are they tired?
+Is it interesting?
+Is he in a meeting?
+Am I designer?
+Is it bad?
+Is she at work?
+Is he here?
+Are they hungry?
+Am I happy?
+Am I a writer?
+Is it good?
+Is she at home?
+He is a student. Is he?
+We are at home. Are we?
+They are bad. Are they?
+They are ill. Are they?
+He is a doctor. Is he?
+He is a teacher. Is he?
+We are in class. Are we?
+They are funny. Are they?
+They are traveling. Are they?
+Hungry and thirsty
+Surprised and late
+Right and wrong
+I am hungry.
+I am thirsty.
+I am not thirsty.
+Is she thirsty?
+She is not thirsty.
+Got it?
+Are you surprised?
+Are we wrong?
+Are you angry?
+Who
+What
+How
+When
+Where
+Why
+Why
+Where
+Who and what?
+Where and when?
+Who and why?
+How and where?
+What and how?
+Why and how?
+When and where?
+Why and where?
+Why and when?
+What and where?
+Who and where?
+What and why?
+Where is she?
+Who is she?
+How is she?
+He is working.
+I am writing.
+Are you cooking now?
+Are we cooking now?
+Are they cooking now?
+Are you cooking now?
+Where are they meeting now?
+Where is she singing now?
+Where are they flying now?
+Who is swimming now?
+Where are you flying now?
+Where is she sleeping now?
+He is choosing.
+He is not working.
+I am not writing.
+The dog is sleeping.
+What are you doing right now?
+Why is she sleeping now?
+Where are you going?
+Where are they working now?
+Why isn't she sleeping now?
+I work every day.
+She works every day.
+It works every day.
+It always works.
+He always repairs.
+She always goes.
+I buy every day.
+She often sells there.
+We rarely do it there.
+He often chooses it.
+We never hide.
+You usually swim there.
+I rarely choose it.
+She never chooses.
+You never give it.
+Do they often fly?
+Do you always work at night?
+
+
+
+Do you do?
+Does she always ...?
+Does it always ...?
+Do you always ...?
+Does he rarely ...?
+Does she usually ...?
+Do you often ...?
+Do they rarely ...?
+Does he sometimes ...?
+Does it always work?
+Does he always choose the same thing?
+Do you always buy the same thing?
+Do you even learn English?
+Does she often do that?
+Do they usually start at 5?
+Does she usually sleep there?
+Does she ever read?
+Do you usually hide here?
+Does he sometimes drink?
+Does she usually give money?
+Do they often do the same thing?
+Does he even go to school?
+Do you rarely give money?
+Do you sometimes buy milk?
+Does it always work?
+Do you even drink wine?
+Does he often swim here?
+Always
+Usually
+Often
+Rarely
+Sometimes
+Never
+Always and never
+Never and often
+Rarely and always
+What do you usually ...?
+When do you usually ...?
+Why do you always ...?
+Where is she ...?
+What does she usually ...?
+Whom do you always ...?
+Where do they often ...?
+What does he ...?
+Why do you ...?
+How does it usually ...?
+When does she ...?
+What do they ...?
+Where do you always ...?
+Whom do you ...?
+Why does he rarely ...?
+Where do you always ...?
+Why does she often ...?
+Why does she often ...?
+When do you usually come?
+Where does she live?
+Why do you live here?
+What does he know?
+She doesn't read. Seriously?
+She usually doesn't sleep.
+Do you know?
+Doesn't she really do that?
+She doesn't come at 9.
+Who doesn't hide?
+Who doesn't give?
+Why doesn't he always come on time?
+Don't I always do that?
+Why don't you start now?
+She usually doesn't sleep.
+Don't we really do that?
+It usually doesn't work.
+They don't come late.
+Why doesn't it always light up?
+What doesn't light up?
+Doesn't he fight?
+Why doesn't he usually sleep?
+They don't always hide.
+Why doesn't he always do that?
+They helped me last week.
+She lived here in October.
+We wanted to buy a house last July.
+I needed help the day before yesterday.
+He recognized me yesterday.
+She opened the window two hours ago.
+They were waiting last Sunday.
+You lived here 10 years ago.
+Last year, I repaired the car.
+He needed to close the doors 5 minutes ago.
+We worked in May.
+Yesterday I wanted to wait.
+She believed me yesterday.
+She wanted to live in Boston.
+It was happening every day last week.
+We needed to work on Monday.
+I believed in it the day before yesterday.
+They liked the house yesterday.
+They lived and worked here last year.
+He opened the doors and recognized me.
+You wanted to open the window.
+He wanted to work the day before yesterday.
+We helped you on Tuesday.
+They were cooking on weekends last year.
+Was and passed.
+Went and came.
+Came and bought.
+Bought and received.
+Received and thought.
+Thought and sold.
+Sold and did.
+Did and had.
+Had and were.
+Did and saw.
+Saw and went.
+Did and had.
+He met me there on Wednesday.
+They received the documents on Friday.
+You wanted to come the day before yesterday.
+When it happened, they were at work.
+I liked everything I saw yesterday.
+I thought about it last weekend.
+She recognized me when I came.
+Yesterday I was at home, and they were at work.
+I had a bad day yesterday.
+She sold the house in December and went to Boston.
+She thought I had money.
+When you arrived, he was at home.
+When you arrived, was he at home?
+I chose everything I needed and bought it.
+We did it when she sold everything.
+She did it 5 minutes ago, and we went home.
+They had a house when they lived there.
+She was receiving money every month.
+When we came here, she bought a car.
+It was happening every week.
+We did everything she wanted.
+I wanted to be there, and we went there in May.
+When we were little, I had a dog, and she had a cat.
+We saw you when you arrived in Berlin.
+I recognized you when I heard.
+She opened the window, thought, and closed it.
+He bought a house in October and sold it in June.
+I thought you wanted to see me.
+I was here and heard everything.
+When you arrived, she was there.
+We were thinking about it the day before yesterday.
+He arrived two hours ago, chose a car, and bought it.
+They met and went to work.
+We were happy when we had a house.
+Last week he came and got everything.
+We received money when I sold everything.
+Do you fly often?
+Did you fly a lot last year?
+Did you go to the bank yesterday?
+Did you work on Friday?
+Did you cook every day?
+Did they buy groceries?
+When did they sell the house?
+Did she talk to them last week? She did.
+Did they pay us for the work?
+Did she use that perfume yesterday?
+Were you there yesterday?
+Did the kids tell you about it the day before yesterday?
+Was she happy to see you?
+Did you lose your wallet when you were in the park?
+Did she leave town this morning?
+Did they feel well on Saturday?
+Did he tell you about it?
+Did you call the help desk?
+Were they at work last Wednesday?
+Did that mean anything?
+Did they leave in the morning?
+Did you put my passport in there? Of course I did.
+Were they busy yesterday? Of course they were.
+Did you run every morning?
+Did she show you that house yesterday?
+Did he lose all his money yesterday?
+Did you use my laptop last night?
+They really meant it.
+Did she call you on Friday?
+Did you try to talk to her? Of course I did.
+Did he ask you anything yesterday?
+Did you feel bad this morning?
+Did he put the money in his wallet?
+Did she talk to them the day before yesterday?
+Did it start last year?
+Was it three years ago?
+Did he say anything.
+What were you looking for there the day before yesterday?
+Where were you yesterday?
+How did he talk to you yesterday?
+Where did you run every night?
+What did he show you on Thursday?
+How did you pay?
+Where did he lose his wallet yesterday?
+Who paid for it?
+Why did he tell us everything?
+Who told you that?
+Who did you tell it to?
+Who paid us on Friday?
+Who did you pay?
+Who used my camera?
+Who did you give the money to?
+Did she leave on Tuesday?
+Did he call last weekend?
+Who called us?
+Did he say anything when you met?
+Where were you looking for us?
+How did she use that phone?
+Why did she ask you that?
+How were you feeling?
+Where did you play tennis last weekend?
+I didn't sleep last night.
+The tree wasn't growing.
+She didn't speak to us an hour ago.
+He wasn't happy.
+You didn't include that in your report.
+He didn't learn English at school.
+She wasn't surprised.
+We didn't watch TV this morning.
+They didn't walk to work.
+She wasn't in town on Tuesday.
+I didn't take her advice and went home.
+They didn't create anything.
+He didn't win.
+He didn't bow out.
+You didn't let her come.
+They wouldn't talk to me.
+The dog wouldn't eat and turned away.
+You didn't offer your help.
+They wouldn't let us change our tickets.
+We didn't add salt.
+Your money didn't disappear.
+We didn't follow it.
+Germany didn't grow tea or coffee.
+He didn't speak English, but he spoke French.
+I didn't follow her.
+She didn't go to the car.
+We weren't thirsty.
+You didn't offer to burn with him.
+They didn't offer anything.
+I didn't spend anything.
+You didn't win anything.
+He didn't appear in town yesterday.
+He didn't appear at breakfast.
+We didn't walk home, we took the car.
+She didn't remember how to make a spreadsheet.
+Who created this application?
+We didn't include it in the list and he remembered it.
+I lost my keys.
+She found a new cafe this week.
+You know, I changed my mind.
+She had breakfast recently.
+He was already here.
+We've been here for 15 minutes.
+I've been in Germany for three months.
+They were already in France.
+We've already had dinner.
+Come here. She found a way out.
+I just saw them.
+Thanks, I've already had dinner.
+The weather changed this week.
+I think they've already left.
+This is the most delicious thing I've ever eaten.
+I'm really glad you told me everything.
+They've already done everything.
+We've been in Spain for four days.
+By the way, I saw her the other day.
+It already happened.
+She just took a shower.
+We've already rested.
+They bought a new car.
+I've already been here this year.
+He learned fifty new words today.
+Unfortunately, she changed her mind.
+I found what you need.
+She came to Spain this year.
+I've had enough.
+This is the most amazing thing I've ever seen in my life.
+She was talking to him the other day.
+I've been here for 20 minutes, by the way.
+I still haven't bought a present for my mom.
+She hasn't finished her work yet.
+He hasn't done anything yet.
+They still haven't talked to us.
+I heard she arrived yesterday, but I haven't met her yet.
+Have you had breakfast yet?
+Haven't you had breakfast yet?
+Why haven't you had breakfast yet?
+I haven't seen him lately.
+I've never been abroad.
+I've never tasted it.
+We've been in Canada for five years.
+Have you been to Denmark?
+Why haven't you taken a shower yet?
+Have you heard the news?
+Have you paid yet?
+They haven't started yet.
+She still hasn't found a job.
+I haven't had a vacation yet.
+Have they sold their house yet?
+I guess it hasn't happened yet.
+I'm not selling the house.
+You wouldn't understand.
+I won't sing.
+It's going to be 25 degrees Celsius tomorrow.
+I think she'll live.
+So I'll be back soon.
+She'll stay with you after tomorrow.
+I'm sure you won't pass the test.
+She's afraid she's not coming home again.
+I expect her to explain everything to me tomorrow.
+They won't be wearing guns next month.
+I hope you don't fall.
+I'm expecting you to stay here for a few days.
+Years will pass and they'll come up with something new.
+You can't accomplish your goal without her help.
+I hope she doesn't kill them for it.
+I'll decide when to return the money.
+I don't think he'll wake up so early.
+I'll cut the vegetables into small pieces first.
+We can develop this app next year.
+They won't be back the day after tomorrow.
+I'm not staying here anymore.
+She will decide tomorrow where to go.
+I believe this will all pass soon.
+She won't be able to cut the frozen meat.
+I think you'll manage.
+I'm afraid it will require more money.
+He'll take the children to bed and then we'll drink tea.
+I hope he doesn't cut himself.
+I'm afraid we won't reach Arlington until five o'clock.
+I don't think he'll be able to explain everything.
+We expect it won't take much effort.
+Then they'll decide where to stop.
+I don't think she will explain anything to you.
+We expect them to be back in five days.
+I'll take your bags instead.
+It will take longer to accomplish these goals.
+I won't be able to come back the day after tomorrow.
+You'll take the test tomorrow.
+They can reach the border in 5 hours.
+When will she arrive?
+What will you take?
+How will you understand?
+When will we meet again?
+How do we recognize him?
+Who will believe you?
+When will they get here?
+Are you coming back soon? I'm not.
+Do you think I'll fall? I do.
+Are you going to stay here for a few days? I don't think so.
+When will you make a decision?
+When are you going to return the money?
+I'm still at home.
+I was home yesterday.
+I haven't been home in two weeks.
+I was here today.
+I'll be here at five.
+I'm not home.
+Why won't you help me?
+Why don't you support my decisions?
+Why won't you tell me where she is?
+The car won't start.
+Why won't the computer turn on?
+The washing machine doesn't work.
+He won't listen to me.
+I'll give you the details on how to choose the right phone.
+You will? Thank you very much!
+I don't want to get any more money from him.
+I click on the icon, but the app won't launch.
+Will he agree? Unfortunately, no.
+I'll pick up my wallet.
+I'll take you up.
+Unfortunately, I can't share this picture on Facebook.
+If the weather is good, we will go for a walk.
+If I find the keys, I will open the door.
+If she finishes her work early, she will go to the movies.
+If he doesn't wake up on time, he will miss the bus.
+If they do their homework, they will get good grades.
+If you don't go with me, I will go alone.
+If she cooks dinner, we will eat together.
+If the rain stops, we will be able to have a picnic.
+If you take care of the plants, they will grow beautifully.
+If he calls me, I will give him the address.
+If they don't study hard, they won't be able to pass the exam.
+We will go for a walk if the weather is good.
+The door won't open UNTIL you push it harder.
+I will leave AS SOON AS the nanny arrives.
+He will buy a car AS SOON AS the price goes down.
+If it doesn't rain tomorrow, we will go to the beach.
+ We'll reduce the price on condition / provided / providing they reduce the tax.
+He'll cover the expenses as long as you accept his conditions.
+I will call you AS SOON AS I finish work.
+What if I get a well-paid job soon?
+I'll wait untill you come back.
+When it rains, you'll get wet.
+If you see Tanya, tell her everything.
+Call me as soon as you are free.
+You can be late unless you hurry up.
+I can do it when I come back.
+He may go to the party as long as he promises to be back by midnight.
+I don't know when they WILL come.
+I don't know if they will arrive.
+I wonder if they will call tomorrow.
+I'm not sure if she will pay.
+If she is late, we will start without her.
+They will come AS SOON AS they finish their work.
+If you have some free time, could you help me?
+Call me AS SOON AS you get home.
+If he doesn't forget, he will bring a gift.
+If she is not tired, they will go for a walk.
+We will go on vacation AS SOON AS we find a good place.
+If they can, they will invite their friends.
+If she doesn't fix the car, she won't be able to go on the trip.
+Call me AS SOON AS you finish your lessons.
+If she forgets her umbrella, she will get wet in the rain.
+We will start dinner AS SOON AS everyone gathers at the table.
+If he doesn't call back by evening, I will call him.
+They will leave AS SOON AS they finish shopping.
+If he is late, we will go on without him.
+If they don't find their tickets, they won't be able to go to the concert.
+She will cook dinner, PROVIDED that he does the dishes.
+If you don't change the channel, we will watch this show.
+If she doesn't forget her phone, she will be able to take photos.
+If you go to the store, buy some milk.
+He will answer the phone AS SOON AS he hears the ring.
+If they have time, they will invite their friends to the party.
+Call me AS SOON AS you finish work.
+If he is late, the bus will have already left.
+If she wins the lottery, she will buy a house.
+If he didn't study, he won't pass the exam.
+They will go to the movies, PROVIDED that they can buy tickets.
+If you forget my number, I will write it down on a piece of paper.
+If they don't fix their car, they won't be able to go on the trip.
+Call me AS SOON AS you get back from work.
+We have enough time, we have a few hours.
+I have patience.
+He used to live here.
+He's used to living here.
+He quickly got used to life here.
+We used to work at night.
+She used to study French.
+They used to go to this restaurant a long time ago.
+My brother used to be a vegetarian, but now he eats meat.
+She didn't use to like sports, but she started doing yoga.
+We used to go on picnics in the summer.
+He used to smoke, but he quit.
+My sister used to live in New York, but now she's in Los Angeles.
+They used to play soccer every Saturday.
+She's already used to the new schedule.
+They're getting used to the cold weather.
+I'm gradually getting used to my new job.
+He's slowly getting used to the city's fast pace.
+I can't get used to being rich.
+He's going to buy a car.
+She's going to visit her relatives this weekend.
+We're going to celebrate the wedding next month.
+They're going to start a new business.
+I'm going to study abroad next year.
+He's going to buy a new computer.
+She's going to learn French.
+They're going to visit the museum on Monday.
+I'm going to cook dinner tonight.
+I'm going to visit the museum tomorrow morning.
+She's going to go on a trip next Saturday.
+We're going to have a picnic this Wednesday.
+They're going to watch a football game on Sunday evening.
+He's going to have a meeting with the team on Monday afternoon.
+She's going to go to a restaurant with friends next Tuesday.
+We're going to visit the park on Thursday after school.
+He's going to throw a party this week on Friday.
+All sentences from live, episods, books. news etc
+Your package was delivered. It was handed directly to a resident.
+You said you were gonna pick him up.
+Is everything okay?
+I may not have sold a car yet, but I've come real close.
+We're late.
+Oh, we're out of milk.
+What happened to me?
+What are you gonna do?
+Hi! How are you?
+Good afternoon! How's it going?
+Good evening! How are you?
+Nice to meet you.
+Have a nice day!
+See you later!
+Take care.
+Thank you (very much)
+You're welcome
+How was your day?
+What time is it?
+It seems like a good idea.
+I'm lost. Can you help me find (a place)?
+Can I have the bill, please?
+May I have a glass of water, please?
+It's getting late.
+What's the weather like today?
+I'm hungry/thirsty/tired/etc.
+Sorry, I don't understand.
+Can you repeat that, please?
+Could you help me, please?
+I would appreciate it if you help correct my mistakes.
+Where is the restroom?
+How do you spell that?
+What's your favorite (color, food, movie, etc.)?
+I think you can do it. I think you'll do fine.
+How long have you been here? I've been here about two months.
+How often are you in this chat room?
